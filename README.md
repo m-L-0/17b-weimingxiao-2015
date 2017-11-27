@@ -10,7 +10,7 @@
 #### cnn：卷积两次 池化两次 后进行全连接 加以大量图片训练
 5. [读取tfrecord文件并且可视化，具体表现在jupyternotebook][5]
 6. [tensorboard没有完全成功 生成graph但运行数据不对，详请见jupyter notebook文件最后][1]
-[1]:https://github.com/m-L-0/17b-weimingxiao-2015/blob/master/FashionMNIST_Challenge/code/main.ipynb 
+[1]https://github.com/m-L-0/17b-weimingxiao-2015/blob/master/FashionMNIST_Challenge/code/main.ipynb 
 [2]:https://github.com/m-L-0/17b-weimingxiao-2015/blob/master/FashionMNIST_Challenge/code/knn.py
 [3]:https://github.com/m-L-0/17b-weimingxiao-2015/blob/master/FashionMNIST_Challenge/code/k_mean.py
 [4]:https://github.com/m-L-0/17b-weimingxiao-2015/blob/master/FashionMNIST_Challenge/code/cnn.py
