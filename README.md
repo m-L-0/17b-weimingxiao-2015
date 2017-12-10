@@ -19,9 +19,15 @@
 
 # 大作业二
 1. [整个大作业，使用juypter notebook显示][6]
+
 [6]:https://github.com/m-L-0/17b-weimingxiao-2015/blob/master/%20Vehicle_License_Plate_Recognition/mycnn.ipynb
+
 2. [算法以及学习总结][7]
+
 [7]:https://github.com/m-L-0/17b-weimingxiao-2015/blob/master/%20Vehicle_License_Plate_Recognition/%E7%AE%97%E6%B3%95.ipynb
+
 3. [执行代码的py文件][8]
+
+
 [8]:https://github.com/m-L-0/17b-weimingxiao-2015/blob/master/%20Vehicle_License_Plate_Recognition/code/mycar.py
 4. 最后验证集正确率在98左右 召回率 测试后得出 详情见2
