@@ -1,6 +1,6 @@
 # 17b-weimingxiao-2015
 
-## 大作业 
+# 大作业一 
 1. [整个大作业，使用juypter notebook显示][1]
 2. [knn的py文件 正确率在86%][2]
 #### knn算法：把图片矩阵和每一张或者着多张图片做欧式距离 取距离最近的前3个 看关于哪一个标签的最多 就测试它为某一个标签
@@ -16,3 +16,12 @@
 [3]:https://github.com/m-L-0/17b-weimingxiao-2015/blob/master/FashionMNIST_Challenge/code/k_mean.py
 [4]:https://github.com/m-L-0/17b-weimingxiao-2015/blob/master/FashionMNIST_Challenge/code/cnn.py
 [5]:https://github.com/m-L-0/17b-weimingxiao-2015/blob/master/FashionMNIST_Challenge/code/slight.py
+
+# 大作业二
+1. [整个大作业，使用juypter notebook显示][1]
+[1]:https://github.com/m-L-0/17b-weimingxiao-2015/blob/master/%20Vehicle_License_Plate_Recognition/mycnn.ipynb
+2. [算法以及学习总结][2]
+[2]:https://github.com/m-L-0/17b-weimingxiao-2015/blob/master/%20Vehicle_License_Plate_Recognition/%E7%AE%97%E6%B3%95.ipynb
+3. [执行代码的py文件]
+[3]:https://github.com/m-L-0/17b-weimingxiao-2015/blob/master/%20Vehicle_License_Plate_Recognition/code/mycar.py
+4. 最后验证集正确率在98左右 召回率 测试后得出 详情见2
