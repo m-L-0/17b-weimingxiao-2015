@@ -30,4 +30,8 @@
 
 
 [8]:https://github.com/m-L-0/17b-weimingxiao-2015/blob/master/%20Vehicle_License_Plate_Recognition/code/mycar.py
-4. 最后验证集正确率在98左右 召回率 测试后得出 详情见2
+4. 最后测试集正确率在90左右 召回率 测试后得出 详情见2
+
+5. [测试集召回率 打印标签的代码][9]
+
+[9]:https://github.com/m-L-0/17b-weimingxiao-2015/blob/master/%20Vehicle_License_Plate_Recognition/t.py
