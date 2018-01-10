@@ -35,3 +35,7 @@
 5. [测试集召回率 打印标签的代码][9]
 
 [9]:https://github.com/m-L-0/17b-weimingxiao-2015/blob/master/%20Vehicle_License_Plate_Recognition/t.py
+
+# 大作业三
+1. [整个大作业，使用juypter notebook显示][10]
+[10]:https://github.com/m-L-0/17b-weimingxiao-2015/blob/master/CaptchaRecognition/main.ipynb
