@@ -40,3 +40,11 @@
 1. [整个大作业，使用juypter notebook显示][10]
 
 [10]:https://github.com/m-L-0/17b-weimingxiao-2015/blob/master/CaptchaRecognition/main.ipynb
+
+2. [说明文档][11]
+
+[11]:https://github.com/m-L-0/17b-weimingxiao-2015/blob/master/CaptchaRecognition/%E8%AF%B4%E6%98%8E.ipynb
+
+3. [web代码][12]
+
+[12]:https://github.com/m-L-0/17b-weimingxiao-2015/blob/master/CaptchaRecognition/a.py
